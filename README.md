@@ -42,9 +42,7 @@ Follow these steps to install and set up the project.
 
 ### Clone the Repository
 
-```bash
-git clone --recurse-submodules https://github.com/Andreaswt/variant-analysis-evo2.git
-```
+
 
 ### Install Python
 
